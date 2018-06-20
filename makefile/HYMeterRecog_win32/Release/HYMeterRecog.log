@@ -1,0 +1,212 @@
+﻿  SaliencyDetect.cpp
+  HY_meterReg.c
+..\..\src\HY_meterReg.c(381): warning C4101: “lClassIndex”: 未引用的局部变量
+..\..\src\HY_meterReg.c(646): warning C4101: “lClassIndex”: 未引用的局部变量
+..\..\src\HY_meterReg.c(1058): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+..\..\src\HY_meterReg.c(1068): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+..\..\src\HY_meterReg.c(1075): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+..\..\src\HY_meterReg.c(1089): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+..\..\src\HY_meterReg.c(1096): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+..\..\src\HY_meterReg.c(1103): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+..\..\src\HY_meterReg.c(1110): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+..\..\src\HY_meterReg.c(1117): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+..\..\src\HY_meterReg.c(1124): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+..\..\src\HY_meterReg.c(1142): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\HY_meterReg.c(1216): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\HY_meterReg.c(1242): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\HY_meterReg.c(1519): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\HY_meterReg.c(1527): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_meterReg.c(1549): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\HY_meterReg.c(1557): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_meterReg.c(1705): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+..\..\src\HY_meterReg.c(1835): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+..\..\src\HY_meterReg.c(1844): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+..\..\src\HY_meterReg.c(1774): warning C4101: “lRate”: 未引用的局部变量
+..\..\src\HY_meterReg.c(1928): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\HY_meterReg.c(1951): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_meterReg.c(1955): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_meterReg.c(1959): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_meterReg.c(1970): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_meterReg.c(1971): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_meterReg.c(1975): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+  wyMatchRigidBody.c
+..\..\src\RidMatch_ydq\wyMatchRigidBody.c(656): warning C4311: “类型转换”: 从“unsigned char *”到“unsigned int”的指针截断
+..\..\src\RidMatch_ydq\wyMatchRigidBody.c(656): warning C4311: “类型转换”: 从“unsigned short *”到“unsigned int”的指针截断
+  wyMatchRigidBodyIF.c
+..\..\src\RidMatch_ydq\wyMatchRigidBodyIF.c(30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\RidMatch_ydq\wyMatchRigidBodyIF.c(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\RidMatch_ydq\wyMatchRigidBodyIF.c(742): warning C4311: “类型转换”: 从“unsigned char *”到“unsigned int”的指针截断
+..\..\src\RidMatch_ydq\wyMatchRigidBodyIF.c(743): warning C4311: “类型转换”: 从“unsigned short *”到“unsigned int”的指针截断
+  wyVAFunc.c
+..\..\src\RidMatch_ydq\wyVAFunc.c(972): warning C4312: “类型转换”: 从“unsigned int”转换到更大的“unsigned char *”
+..\..\src\RidMatch_ydq\wyVAFunc.c(973): warning C4312: “类型转换”: 从“unsigned int”转换到更大的“unsigned char *”
+..\..\src\RidMatch_ydq\wyVAFunc.c(974): warning C4312: “类型转换”: 从“unsigned int”转换到更大的“unsigned short *”
+  version.c
+  snake.c
+  bbgeometry.c
+  blobfilter.c
+  liedge.c
+..\..\src\facedespot\liedge.c(217): warning C4267: “函数”: 从“size_t”转换到“MLong”，可能丢失数据
+..\..\src\facedespot\liedge.c(328): warning C4267: “函数”: 从“size_t”转换到“MLong”，可能丢失数据
+..\..\src\facedespot\liedge.c(503): warning C4267: “函数”: 从“size_t”转换到“MLong”，可能丢失数据
+..\..\src\facedespot\liedge.c(607): warning C4267: “函数”: 从“size_t”转换到“MLong”，可能丢失数据
+  liresize.c
+  ncc.c
+  symtrans.c
+  HaarResponse.c
+..\..\src\filter\HaarResponse.c(183): warning C4013: “filterImg”未定义；假设外部返回 int
+..\..\src\filter\HaarResponse.c(147): warning C4474: sprintf: 格式字符串中传递的参数太多
+  ..\..\src\filter\HaarResponse.c(147): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+..\..\src\filter\HaarResponse.c(147): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\filter\HaarResponse.c(150): warning C4474: sprintf: 格式字符串中传递的参数太多
+  ..\..\src\filter\HaarResponse.c(150): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+..\..\src\filter\HaarResponse.c(150): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\filter\HaarResponse.c(167): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\filter\HaarResponse.c(170): warning C4474: sprintf: 格式字符串中传递的参数太多
+  ..\..\src\filter\HaarResponse.c(170): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+..\..\src\filter\HaarResponse.c(170): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\filter\HaarResponse.c(176): warning C4474: sprintf: 格式字符串中传递的参数太多
+  ..\..\src\filter\HaarResponse.c(176): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+..\..\src\filter\HaarResponse.c(176): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\filter\HaarResponse.c(184): warning C4474: sprintf: 格式字符串中传递的参数太多
+  ..\..\src\filter\HaarResponse.c(184): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+..\..\src\filter\HaarResponse.c(184): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\filter\HaarResponse.c(196): warning C4474: sprintf: 格式字符串中传递的参数太多
+  ..\..\src\filter\HaarResponse.c(196): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+..\..\src\filter\HaarResponse.c(196): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\filter\HaarResponse.c(209): warning C4474: sprintf: 格式字符串中传递的参数太多
+  ..\..\src\filter\HaarResponse.c(209): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+..\..\src\filter\HaarResponse.c(209): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\filter\HaarResponse.c(279): warning C4474: sprintf: 格式字符串中传递的参数太多
+  ..\..\src\filter\HaarResponse.c(279): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+..\..\src\filter\HaarResponse.c(279): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\filter\HaarResponse.c(97): warning C4101: “m”: 未引用的局部变量
+..\..\src\filter\HaarResponse.c(98): warning C4101: “distance”: 未引用的局部变量
+..\..\src\filter\HaarResponse.c(1578): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+..\..\src\filter\HaarResponse.c(1622): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+..\..\src\filter\HaarResponse.c(2027): warning C4244: “函数”: 从“MDouble”转换到“int”，可能丢失数据
+..\..\src\filter\HaarResponse.c(2037): warning C4244: “函数”: 从“MDouble”转换到“int”，可能丢失数据
+..\..\src\filter\HaarResponse.c(3964): warning C4244: “*=”: 从“double”转换到“MByte”，可能丢失数据
+..\..\src\filter\HaarResponse.c(4880): warning C4142: "filterImg": 类型的良性重定义
+..\..\src\filter\HaarResponse.c(5176): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+..\..\src\filter\HaarResponse.c(5202): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+..\..\src\filter\HaarResponse.c(5212): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+  gradient.c
+  hisi.c
+  liblock.c
+  lichannel.c
+..\..\src\image\lichannel.c(293): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\image\lichannel.c(294): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\image\lichannel.c(295): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\image\lichannel.c(296): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\image\lichannel.c(524): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\image\lichannel.c(525): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\image\lichannel.c(592): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\image\lichannel.c(593): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+  liimage.c
+  liintegral.c
+  liwatermark.c
+  正在生成代码...
+  正在编译...
+  resample.c
+  rotateBlock.c
+  hough.c
+  sort.c
+  lidebug.c
+..\..\src\licommon\lidebug.c(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\lidebug.c(219): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\lidebug.c(362): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\lidebug.c(365): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\lidebug.c(368): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\lidebug.c(371): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\lidebug.c(470): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note: 参见“vsprintf”的声明
+  limem.c
+..\..\src\licommon\limem.c(225): warning C4311: “类型转换”: 从“MVoid *”到“MDWord”的指针截断
+..\..\src\licommon\limem.c(225): warning C4312: “类型转换”: 从“MDWord”转换到更大的“LPAM_MEMPOOLCELLHEADER”
+..\..\src\licommon\limem.c(226): warning C4311: “类型转换”: 从“AM_MEMPOOLCELLHEADER *”到“MDWord”的指针截断
+..\..\src\licommon\limem.c(226): warning C4311: “类型转换”: 从“MVoid *”到“MDWord”的指针截断
+..\..\src\licommon\limem.c(277): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+  lisort.c
+  litimer.c
+..\..\src\licommon\litimer.c(85): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\licommon\litimer.c(86): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\litimer.c(87): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\licommon\litimer.c(88): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\litimer.c(89): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\licommon\litimer.c(90): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\litimer.c(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\licommon\litimer.c(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\litimer.c(93): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\licommon\litimer.c(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\litimer.c(95): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\licommon\litimer.c(96): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\licommon\litimer.c(97): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\..\src\licommon\litimer.c(98): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  liimgfmttrans.c
+  lirgb_yuv.c
+..\..\src\imgfmt_trans\lirgb_yuv.c(401): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\imgfmt_trans\lirgb_yuv.c(402): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\imgfmt_trans\lirgb_yuv.c(447): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\imgfmt_trans\lirgb_yuv.c(448): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\imgfmt_trans\lirgb_yuv.c(494): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\imgfmt_trans\lirgb_yuv.c(495): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\imgfmt_trans\lirgb_yuv.c(541): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+..\..\src\imgfmt_trans\lirgb_yuv.c(542): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+  facemask.c
+..\..\src\mask\facemask.c(1220): warning C4311: “类型转换”: 从“MByte *”到“MLong”的指针截断
+..\..\src\mask\facemask.c(1224): warning C4311: “类型转换”: 从“MByte *”到“MDWord”的指针截断
+  limask.c
+  MatchRigidBody.c
+..\..\src\Match\MatchRigidBody.c(220): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\Match\MatchRigidBody.c(235): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1357,5): warning MSB8012: TargetPath(E:\WhayerCode\RecogByYolo\biaoji Unify version_64\testbed\testbed_win32\Release\HYMeterRecog.lib) does not match the Library's OutputFile property value (E:\WhayerCode\RecogByYolo\biaoji Unify version_64\lib\win32\HYMeterRecog.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  HYMeterRecog.vcxproj -> E:\WhayerCode\RecogByYolo\biaoji Unify version_64\testbed\testbed_win32\Release\HYMeterRecog.lib

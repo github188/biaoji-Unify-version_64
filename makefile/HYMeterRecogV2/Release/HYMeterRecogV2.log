@@ -1,0 +1,128 @@
+﻿生成启动时间为 2018/6/15 14:23:17。
+     1>项目“F:\biaoji Unify version_64\makefile\HYMeterRecogV2\HYMeterRecogV2.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\HYMeterRecogV2.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“Release\HYMeterRecogV2.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../../inc /ID:\opencv\build\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D HYMETERRECOGV2_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\HY_MeterRecogV2_yolomask416x416.cpp
+         HY_MeterRecogV2_yolomask416x416.cpp
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(216): warning C4305: “初始化”: 从“double”到“float”截断
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(289): warning C4244: “=”: 从“float”转换到“MLong”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(290): warning C4244: “=”: 从“float”转换到“MLong”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(65): warning C4101: “dstData”: 未引用的局部变量
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(64): warning C4101: “srcData”: 未引用的局部变量
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(399): warning C4305: “初始化”: 从“double”到“float”截断
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(429): warning C4244: “=”: 从“float”转换到“MLong”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(430): warning C4244: “=”: 从“float”转换到“MLong”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(438): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(442): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(443): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(465): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(466): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(467): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(468): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(471): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(472): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(473): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(474): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(510): warning C4305: “初始化”: 从“double”到“float”截断
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(533): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(534): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(535): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(536): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(593): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(607): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(609): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(610): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(611): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(613): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(617): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(618): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(622): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(625): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(626): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(628): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(634): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(639): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(640): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(644): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(646): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(651): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(660): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(661): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(672): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(684): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(688): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(689): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(693): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(721): warning C4101: “textContent”: 未引用的局部变量
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(715): warning C4101: “matchRate”: 未引用的局部变量
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(890): warning C4101: “pt25”: 未引用的局部变量
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(889): warning C4101: “pt21”: 未引用的局部变量
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(890): warning C4101: “pt26”: 未引用的局部变量
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(889): warning C4101: “pt22”: 未引用的局部变量
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(889): warning C4101: “pt19”: 未引用的局部变量
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(890): warning C4101: “pt23”: 未引用的局部变量
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(890): warning C4101: “pt24”: 未引用的局部变量
+     1>..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(889): warning C4101: “pt20”: 未引用的局部变量
+       Link:
+         D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\biaoji Unify version_64\testbed\testbed_win32\Release\HYMeterRecogV2.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\opencv\build\x86\vc10\lib ../../lib/win32/HYMeterRecog.lib opencv_core244.lib opencv_highgui244.lib opencv_imgproc244.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\HYMeterRecogV2.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\biaoji Unify version_64\testbed\testbed_win32\Release\HYMeterRecogV2.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\biaoji Unify version_64\testbed\testbed_win32\Release\HYMeterRecogV2.lib" /MACHINE:X86 /DLL Release\HY_MeterRecogV2_yolomask416x416.obj
+            正在创建库 F:\biaoji Unify version_64\testbed\testbed_win32\Release\HYMeterRecogV2.lib 和对象 F:\biaoji Unify version_64\testbed\testbed_win32\Release\HYMeterRecogV2.exp
+     1>HYMeterRecog.lib(HY_meterReg.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(bbgeometry.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(blobfilter.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(liedge.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(liresize.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(HaarResponse.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(gradient.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(hisi.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(liblock.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(lichannel.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(liimage.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(liintegral.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(rotateBlock.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(sort.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(lidebug.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(limem.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(lisort.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(litimer.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(liimgfmttrans.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(lirgb_yuv.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>HYMeterRecog.lib(MatchRigidBody.obj) : warning LNK4204: “F:\biaoji Unify version_64\testbed\testbed_win32\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+         HYMeterRecogV2.vcxproj -> F:\biaoji Unify version_64\testbed\testbed_win32\Release\HYMeterRecogV2.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\biaoji Unify version_64\testbed\testbed_win32\Release\HYMeterRecogV2.dll;#2" /manifest Release\HYMeterRecogV2.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\HYMeterRecogV2.unsuccessfulbuild”。
+         正在对“Release\HYMeterRecogV2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\biaoji Unify version_64\makefile\HYMeterRecogV2\HYMeterRecogV2.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.17

@@ -1,0 +1,123 @@
+﻿生成启动时间为 2018/4/19 15:28:39。
+     1>项目“E:\biaoji Unify version\makefile\HYMeterRecog_win32\HYMeterRecog.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\HYMeterRecog.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\HYMeterRecog.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../../src/licommon /I../../src/ /I../../inc /I../../src/imgfmt_trans /I../../src/imagepro /I../../src/image /I../../src/hisi /I../../src/gradient /I../../src/filter /I../../src/facedespot /I../../src/colorseg /I../../src/match /I../../src/mask /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\filter\SaliencyDetect.cpp
+         SaliencyDetect.cpp
+         D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../../src/licommon /I../../src/ /I../../inc /I../../src/imgfmt_trans /I../../src/imagepro /I../../src/image /I../../src/hisi /I../../src/gradient /I../../src/filter /I../../src/facedespot /I../../src/colorseg /I../../src/match /I../../src/mask /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\src\HY_meterReg.c ..\..\src\RidMatch_ydq\wyMatchRigidBody.c ..\..\src\RidMatch_ydq\wyMatchRigidBodyIF.c ..\..\src\RidMatch_ydq\wyVAFunc.c ..\..\src\version.c ..\..\src\colorseg\snake.c ..\..\src\facedespot\bbgeometry.c ..\..\src\facedespot\blobfilter.c ..\..\src\facedespot\liedge.c ..\..\src\facedespot\liresize.c ..\..\src\facedespot\ncc.c ..\..\src\facedespot\symtrans.c ..\..\src\filter\HaarResponse.c ..\..\src\gradient\gradient.c ..\..\src\hisi\hisi.c ..\..\src\image\liblock.c ..\..\src\image\lichannel.c ..\..\src\image\liimage.c ..\..\src\image\liintegral.c ..\..\src\image\liwatermark.c ..\..\src\image\resample.c ..\..\src\image\rotateBlock.c ..\..\src\imagepro\hough.c ..\..\src\imagepro\sort.c ..\..\src\licommon\lidebug.c ..\..\src\licommon\limem.c ..\..\src\licommon\lisort.c ..\..\src\licommon\litimer.c ..\..\src\imgfmt_trans\liimgfmttrans.c ..\..\src\imgfmt_trans\lirgb_yuv.c ..\..\src\mask\facemask.c ..\..\src\mask\limask.c ..\..\src\Match\MatchRigidBody.c
+         MatchRigidBody.c
+         limask.c
+         facemask.c
+         lirgb_yuv.c
+         liimgfmttrans.c
+         litimer.c
+         lisort.c
+         limem.c
+         lidebug.c
+         sort.c
+         hough.c
+         rotateBlock.c
+         resample.c
+         liwatermark.c
+         liintegral.c
+         liimage.c
+         lichannel.c
+         liblock.c
+         hisi.c
+         gradient.c
+         正在生成代码...
+         正在编译...
+         HaarResponse.c
+     1>e:\biaoji unify version\src\filter\haarresponse.c(184): warning C4013: “filterImg”未定义；假设外部返回 int
+     1>e:\biaoji unify version\src\filter\haarresponse.c(98): warning C4101: “distance”: 未引用的局部变量
+     1>e:\biaoji unify version\src\filter\haarresponse.c(97): warning C4101: “m”: 未引用的局部变量
+     1>e:\biaoji unify version\src\filter\haarresponse.c(1574): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(1618): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(1994): warning C4244: “函数”: 从“MDouble”转换到“int”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(1994): warning C4244: “函数”: 从“MDouble”转换到“int”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(1994): warning C4244: “函数”: 从“MDouble”转换到“int”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(1994): warning C4244: “函数”: 从“MDouble”转换到“int”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(2004): warning C4244: “函数”: 从“MDouble”转换到“int”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(2004): warning C4244: “函数”: 从“MDouble”转换到“int”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(2004): warning C4244: “函数”: 从“MDouble”转换到“int”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(2004): warning C4244: “函数”: 从“MDouble”转换到“int”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(4810): warning C4142: 类型的良性重定义
+     1>e:\biaoji unify version\src\filter\haarresponse.c(5106): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(5132): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+     1>e:\biaoji unify version\src\filter\haarresponse.c(5142): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+         symtrans.c
+         ncc.c
+         liresize.c
+         liedge.c
+         blobfilter.c
+         bbgeometry.c
+         snake.c
+         version.c
+         wyVAFunc.c
+         wyMatchRigidBodyIF.c
+         wyMatchRigidBody.c
+         HY_meterReg.c
+     1>e:\biaoji unify version\src\hy_meterreg.c(381): warning C4101: “lClassIndex”: 未引用的局部变量
+     1>e:\biaoji unify version\src\hy_meterreg.c(647): warning C4101: “lClassIndex”: 未引用的局部变量
+     1>e:\biaoji unify version\src\hy_meterreg.c(1059): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>e:\biaoji unify version\src\hy_meterreg.c(1069): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>e:\biaoji unify version\src\hy_meterreg.c(1076): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>e:\biaoji unify version\src\hy_meterreg.c(1090): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>e:\biaoji unify version\src\hy_meterreg.c(1097): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>e:\biaoji unify version\src\hy_meterreg.c(1104): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>e:\biaoji unify version\src\hy_meterreg.c(1111): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>e:\biaoji unify version\src\hy_meterreg.c(1118): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>e:\biaoji unify version\src\hy_meterreg.c(1125): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>e:\biaoji unify version\src\hy_meterreg.c(1836): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+     1>e:\biaoji unify version\src\hy_meterreg.c(1845): warning C4244: “=”: 从“double”转换到“MLong”，可能丢失数据
+     1>e:\biaoji unify version\src\hy_meterreg.c(1775): warning C4101: “lRate”: 未引用的局部变量
+         正在生成代码...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(E:\biaoji Unify version\testbed\testbed_win32\Debug\HYMeterRecog.lib) 与 Library 的 OutputFile 属性值(E:\biaoji Unify version\lib\win32\HYAlgorithm.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1153,5): warning MSB8012: TargetName(HYMeterRecog) 与 Library 的 OutputFile 属性值(HYAlgorithm)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+       Lib:
+         D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"../../lib/win32/HYAlgorithm.lib" /NOLOGO Debug\SaliencyDetect.obj
+         Debug\HY_meterReg.obj
+         Debug\wyMatchRigidBody.obj
+         Debug\wyMatchRigidBodyIF.obj
+         Debug\wyVAFunc.obj
+         Debug\version.obj
+         Debug\snake.obj
+         Debug\bbgeometry.obj
+         Debug\blobfilter.obj
+         Debug\liedge.obj
+         Debug\liresize.obj
+         Debug\ncc.obj
+         Debug\symtrans.obj
+         Debug\HaarResponse.obj
+         Debug\gradient.obj
+         Debug\hisi.obj
+         Debug\liblock.obj
+         Debug\lichannel.obj
+         Debug\liimage.obj
+         Debug\liintegral.obj
+         Debug\liwatermark.obj
+         Debug\resample.obj
+         Debug\rotateBlock.obj
+         Debug\hough.obj
+         Debug\sort.obj
+         Debug\lidebug.obj
+         Debug\limem.obj
+         Debug\lisort.obj
+         Debug\litimer.obj
+         Debug\liimgfmttrans.obj
+         Debug\lirgb_yuv.obj
+         Debug\facemask.obj
+         Debug\limask.obj
+         Debug\MatchRigidBody.obj
+         HYMeterRecog.vcxproj -> E:\biaoji Unify version\testbed\testbed_win32\Debug\HYMeterRecog.lib
+       FinalizeBuildStatus:
+         正在删除文件“Debug\HYMeterRecog.unsuccessfulbuild”。
+         正在对“Debug\HYMeterRecog.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\biaoji Unify version\makefile\HYMeterRecog_win32\HYMeterRecog.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.21

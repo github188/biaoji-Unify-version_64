@@ -1,0 +1,39 @@
+﻿生成启动时间为 2018/6/6 16:29:44。
+     1>项目“F:\biaoji Unify version\testbed\testbed_win32\testbed_win32.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\testbed_win32.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../../inc /I../ /I./ /ID:\opencv\build\include /ID:\opencv\build\include\opencv /ID:\opencv\build\include\opencv2 /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\testbed_video_unify.cpp
+         testbed_video_unify.cpp
+     1>..\testbed_video_unify.cpp(254): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>..\testbed_video_unify.cpp(506): warning C4244: “=”: 从“MFloat”转换到“int”，可能丢失数据
+     1>..\testbed_video_unify.cpp(507): warning C4244: “=”: 从“MFloat”转换到“int”，可能丢失数据
+     1>..\testbed_video_unify.cpp(947): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>..\testbed_video_unify.cpp(1084): warning C4101: “matchRate”: 未引用的局部变量
+     1>..\testbed_video_unify.cpp(1336): warning C4244: “=”: 从“MFloat”转换到“int”，可能丢失数据
+     1>..\testbed_video_unify.cpp(1337): warning C4244: “=”: 从“MFloat”转换到“int”，可能丢失数据
+     1>..\testbed_video_unify.cpp(1565): warning C4101: “pt25”: 未引用的局部变量
+     1>..\testbed_video_unify.cpp(1564): warning C4101: “pt21”: 未引用的局部变量
+     1>..\testbed_video_unify.cpp(1565): warning C4101: “pt26”: 未引用的局部变量
+     1>..\testbed_video_unify.cpp(1564): warning C4101: “pt22”: 未引用的局部变量
+     1>..\testbed_video_unify.cpp(1564): warning C4101: “pt19”: 未引用的局部变量
+     1>..\testbed_video_unify.cpp(1565): warning C4101: “pt23”: 未引用的局部变量
+     1>..\testbed_video_unify.cpp(1565): warning C4101: “pt24”: 未引用的局部变量
+     1>..\testbed_video_unify.cpp(1564): warning C4101: “pt20”: 未引用的局部变量
+       Link:
+         D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\biaoji Unify version\testbed\testbed_win32\Release\testbed_win32.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\opencv\build\x86\vc10\lib ../../lib/win32/HYMeterRecog.lib opencv_core244.lib opencv_features2d244.lib opencv_highgui244.lib opencv_imgproc244.lib opencv_ml244.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\testbed_win32.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\biaoji Unify version\testbed\testbed_win32\Release\testbed_win32.pdb" /SUBSYSTEM:CONSOLE /STACK:"400" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\biaoji Unify version\testbed\testbed_win32\Release\testbed_win32.lib" /MACHINE:X86 Release\testbed_video_unify.obj
+         Release\stdafx.obj
+         "F:\biaoji Unify version\lib\win32\HYMeterRecog.lib"
+         正在生成代码
+         已完成代码的生成
+         testbed_win32.vcxproj -> F:\biaoji Unify version\testbed\testbed_win32\Release\testbed_win32.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\biaoji Unify version\testbed\testbed_win32\Release\testbed_win32.exe;#1" /manifest Release\testbed_win32.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\testbed_win32.unsuccessfulbuild”。
+         正在对“Release\testbed_win32.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\biaoji Unify version\testbed\testbed_win32\testbed_win32.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.04

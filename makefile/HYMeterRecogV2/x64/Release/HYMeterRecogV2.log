@@ -1,0 +1,90 @@
+﻿  HY_MeterRecogV2_yolomask416x416.cpp
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(216): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(289): warning C4244: “=”: 从“float”转换到“MLong”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(290): warning C4244: “=”: 从“float”转换到“MLong”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(64): warning C4101: “srcData”: 未引用的局部变量
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(65): warning C4101: “dstData”: 未引用的局部变量
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(399): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(429): warning C4244: “=”: 从“float”转换到“MLong”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(430): warning C4244: “=”: 从“float”转换到“MLong”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(438): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(442): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(443): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(465): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(466): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(467): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(468): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(471): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(472): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(473): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(474): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(510): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(533): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(534): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(535): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(536): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(672): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(593): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(607): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(609): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(610): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(611): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(613): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(617): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(618): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(622): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(625): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(626): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(628): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(634): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(639): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(640): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(644): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(646): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(651): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(660): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(661): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(684): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(688): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(689): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(693): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(721): warning C4101: “textContent”: 未引用的局部变量
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(715): warning C4101: “matchRate”: 未引用的局部变量
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(890): warning C4101: “pt25”: 未引用的局部变量
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(889): warning C4101: “pt21”: 未引用的局部变量
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(889): warning C4101: “pt22”: 未引用的局部变量
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(890): warning C4101: “pt26”: 未引用的局部变量
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(889): warning C4101: “pt19”: 未引用的局部变量
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(890): warning C4101: “pt24”: 未引用的局部变量
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(889): warning C4101: “pt20”: 未引用的局部变量
+..\..\src\HY_MeterRecogV2_yolomask416x416.cpp(890): warning C4101: “pt23”: 未引用的局部变量
+    正在创建库 E:\WhayerCode\RecogByYolo\biaoji Unify version_64\testbed\testbed_win32\x64\Release\HYMeterRecogV2.lib 和对象 E:\WhayerCode\RecogByYolo\biaoji Unify version_64\testbed\testbed_win32\x64\Release\HYMeterRecogV2.exp
+HY_MeterRecogV2_yolomask416x416.obj : error LNK2019: 无法解析的外部符号 action，该符号在函数 "int __cdecl MeterReadRecogV2(struct HYAMR_IMAGES *,struct MeterDESCRIP,struct HYAMR_Meter_Result *)" (?MeterReadRecogV2@@YAHPEAUHYAMR_IMAGES@@UMeterDESCRIP@@PEAUHYAMR_Meter_Result@@@Z) 中被引用
+HY_MeterRecogV2_yolomask416x416.obj : error LNK2019: 无法解析的外部符号 sf6，该符号在函数 "int __cdecl MeterReadRecogV2(struct HYAMR_IMAGES *,struct MeterDESCRIP,struct HYAMR_Meter_Result *)" (?MeterReadRecogV2@@YAHPEAUHYAMR_IMAGES@@UMeterDESCRIP@@PEAUHYAMR_Meter_Result@@@Z) 中被引用
+../../testbed/testbed_win32/Release/watch_match.lib : warning LNK4272: 库计算机类型“X86”与目标计算机类型“x64”冲突
+E:\WhayerCode\RecogByYolo\biaoji Unify version_64\testbed\testbed_win32\x64\Release\HYMeterRecogV2.dll : fatal error LNK1120: 2 个无法解析的外部命令

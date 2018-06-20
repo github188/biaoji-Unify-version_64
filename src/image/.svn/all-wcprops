@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image
+END
+liintegral.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/liintegral.h
+END
+lichannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/lichannel.h
+END
+lineSegment_ex.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/lineSegment_ex.c
+END
+liimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/liimage.c
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/resample.c
+END
+rotateBlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/rotateBlock.c
+END
+lineSegment_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/lineSegment_ex.h
+END
+liimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/liimage.h
+END
+resample.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/resample.h
+END
+rotateBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/rotateBlock.h
+END
+liblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/liblock.c
+END
+liwatermark.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/liwatermark.c
+END
+liblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/liblock.h
+END
+liwatermark.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/liwatermark.h
+END
+liintegral.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/liintegral.c
+END
+lichannel.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/image/lichannel.c
+END

@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/6/15 14:23:23。
+     1>项目“F:\biaoji Unify version_64\testbed\testbed_win32\testbedV2\testbedV2.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\testbedV2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\biaoji Unify version_64\testbed\testbed_win32\Release\testbedV2.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\opencv\build\x86\vc10\lib opencv_core244.lib opencv_highgui244.lib opencv_imgproc244.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\testbedV2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\biaoji Unify version_64\testbed\testbed_win32\Release\testbedV2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\biaoji Unify version_64\testbed\testbed_win32\Release\testbedV2.lib" /MACHINE:X86 Release\testbedV2.obj
+         正在生成代码
+         已完成代码的生成
+         testbedV2.vcxproj -> F:\biaoji Unify version_64\testbed\testbed_win32\Release\testbedV2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\biaoji Unify version_64\testbed\testbed_win32\Release\testbedV2.exe;#1" /manifest Release\testbedV2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\testbedV2.unsuccessfulbuild”。
+         正在对“Release\testbedV2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\biaoji Unify version_64\testbed\testbed_win32\testbedV2\testbedV2.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.31

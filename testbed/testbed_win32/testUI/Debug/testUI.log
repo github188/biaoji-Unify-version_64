@@ -1,0 +1,35 @@
+﻿生成启动时间为 2017/9/28 14:11:08。
+     1>项目“E:\biaoji Unify version\testbed\testbed_win32\testUI\testUI.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\testUI.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.4.0\5.4\msvc2010_opengl\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.4.0\5.4\msvc2010_opengl\include\QtCore /ID:\Qt\Qt5.4.0\5.4\msvc2010_opengl\include\QtGui /ID:\Qt\Qt5.4.0\5.4\msvc2010_opengl\include\QtWidgets /I../../../inc /I../../ /I../ /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_testgui.cpp main.cpp testgui.cpp
+         moc_testgui.cpp
+         main.cpp
+         testgui.cpp
+     1>C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(57): warning C4005: “MAX_PATH”: 宏重定义
+                 e:\biaoji unify version\inc\amcomdef.h(108) : 参见“MAX_PATH”的前一个定义
+         正在生成代码...
+         D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.4.0\5.4\msvc2010_opengl\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.4.0\5.4\msvc2010_opengl\include\QtCore /ID:\Qt\Qt5.4.0\5.4\msvc2010_opengl\include\QtGui /ID:\Qt\Qt5.4.0\5.4\msvc2010_opengl\include\QtWidgets /I../../../inc /I../../ /I../ /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_testgui.cpp
+         qrc_testgui.cpp
+       Link:
+         D:\PROGRAM FILES (X86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\biaoji Unify version\testbed\testbed_win32\Win32\Debug\\testUI.exe" /NOLOGO /LIBPATH:D:\Qt\Qt5.4.0\5.4\msvc2010_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib opencv_core244d.lib opencv_features2d244d.lib opencv_highgui244d.lib opencv_imgproc244d.lib ../../../lib/win32/HYAlgorithm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\testUI.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\biaoji Unify version\testbed\testbed_win32\Win32\Debug\testUI.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\biaoji Unify version\testbed\testbed_win32\Win32\Debug\testUI.lib" /MACHINE:X86 Debug\moc_testgui.obj
+         Debug\qrc_testgui.obj
+         Debug\main.obj
+         Debug\putText.obj
+         Debug\testgui.obj
+         LINK : 没有找到 E:\biaoji Unify version\testbed\testbed_win32\Win32\Debug\\testUI.exe 或上一个增量链接没有生成它；正在执行完全链接
+     1>LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+         testUI.vcxproj -> E:\biaoji Unify version\testbed\testbed_win32\Win32\Debug\testUI.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\biaoji Unify version\testbed\testbed_win32\Win32\Debug\\testUI.exe;#1" /manifest Debug\testUI.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\testUI.unsuccessfulbuild”。
+         正在对“Debug\testUI.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\biaoji Unify version\testbed\testbed_win32\testUI\testUI.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:15.32

@@ -1,0 +1,7 @@
+修改了whayerCode\airswitch\testbed\AirSwitchRecog.c
+      whayerCode\digit\testbed\DigitalRecog.c
+      whayerCode\fenhe\testbed\SwitchRecog.c
+      whayerCode\knob\testbed\KnobRecog.c
+      whayerCode\link\testbed\LinkRecog.c
+中同样的函数和结构体，并重新生成了一遍
+直接替换，看是否还存在相同的全局调用。

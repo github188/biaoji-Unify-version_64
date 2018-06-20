@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>testguiClass</class>
+ <widget class="QMainWindow" name="testguiClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>652</width>
+    <height>498</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>testgui</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <layout class="QGridLayout" name="gridLayout_3">
+      <item row="0" column="4">
+       <widget class="QPushButton" name="fenxi">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>分析</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QPushButton" name="Push_start">
+        <property name="text">
+         <string>配准区域</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="QPushButton" name="Push_process">
+        <property name="text">
+         <string>标刻度</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="3">
+       <widget class="QPushButton" name="biaoxin">
+        <property name="text">
+         <string>标表心</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="0">
+       <widget class="QPushButton" name="xunlian">
+        <property name="text">
+         <string>训练</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="5">
+       <widget class="QPushButton" name="end">
+        <property name="text">
+         <string>结束</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QGridLayout" name="gridLayout_2">
+      <item row="0" column="0">
+       <widget class="QLabel" name="label_5">
+        <property name="text">
+         <string>表背景</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QComboBox" name="beijing">
+        <item>
+         <property name="text">
+          <string>白</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>非白</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="QComboBox" name="zhizhenshu">
+        <item>
+         <property name="text">
+          <string>单指针</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>双指针</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="0" column="3">
+       <widget class="QLabel" name="label_3">
+        <property name="text">
+         <string>指针1颜色</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="4">
+       <widget class="QComboBox" name="color1">
+        <item>
+         <property name="text">
+          <string>黑</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>白</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>红</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>黄</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="0" column="5">
+       <widget class="QLabel" name="label_6">
+        <property name="text">
+         <string>指针形状</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="6">
+       <widget class="QComboBox" name="xingzhuang">
+        <item>
+         <property name="text">
+          <string>细</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>正常</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="0" column="7">
+       <widget class="QLabel" name="label_4">
+        <property name="text">
+         <string>指针2颜色</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="8">
+       <widget class="QComboBox" name="color2">
+        <item>
+         <property name="text">
+          <string>黑</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>白</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>红</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>黄</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="0" column="9">
+       <widget class="QLabel" name="label_8">
+        <property name="text">
+         <string>模糊度</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="10">
+       <widget class="QComboBox" name="qufendu">
+        <item>
+         <property name="text">
+          <string>清晰</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>模糊</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>其它</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QGridLayout" name="gridLayout">
+      <item row="0" column="8">
+       <widget class="QLabel" name="label_10">
+        <property name="text">
+         <string>指针2值</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QComboBox" name="leixing">
+        <item>
+         <property name="text">
+          <string>矩形</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>圆形</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>圆环</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>圆环+矩形</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>圆形+矩形</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>圆形+2个矩形</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>圆形+3个矩形</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>其它</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item row="0" column="5">
+       <widget class="QLineEdit" name="zuixiaozhi">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>0</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="4">
+       <widget class="QLabel" name="label_2">
+        <property name="text">
+         <string>最小值</string>
+        </property>
+        <property name="buddy">
+         <cstring>zuixiaozhi</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="7">
+       <widget class="QLineEdit" name="result"/>
+      </item>
+      <item row="0" column="3">
+       <widget class="QLineEdit" name="buchang">
+        <property name="toolTip">
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        </property>
+        <property name="text">
+         <string>1</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="6">
+       <widget class="QLabel" name="label_9">
+        <property name="text">
+         <string>指针1值</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="QLabel" name="label">
+        <property name="text">
+         <string>步长</string>
+        </property>
+        <property name="buddy">
+         <cstring>buchang</cstring>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="0">
+       <widget class="QLabel" name="label_7">
+        <property name="text">
+         <string>表盘类型</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="9">
+       <widget class="QLineEdit" name="result2"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QLabel" name="pic_1">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>291</width>
+        <height>241</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>                                   点击训练开始</string>
+      </property>
+      <property name="scaledContents">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>652</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="testgui.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>biaoxin</sender>
+   <signal>clicked()</signal>
+   <receiver>testguiClass</receiver>
+   <slot>flag3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>390</x>
+     <y>67</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>522</x>
+     <y>202</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Push_start</sender>
+   <signal>clicked()</signal>
+   <receiver>testguiClass</receiver>
+   <slot>flag1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>197</x>
+     <y>67</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>327</x>
+     <y>190</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>Push_process</sender>
+   <signal>clicked()</signal>
+   <receiver>testguiClass</receiver>
+   <slot>flag2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>293</x>
+     <y>67</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>450</x>
+     <y>191</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>zhizhenshu</sender>
+   <signal>activated(int)</signal>
+   <receiver>testguiClass</receiver>
+   <slot>zhizhennum()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>168</x>
+     <y>95</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>75</x>
+     <y>142</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>zuixiaozhi</sender>
+   <signal>editingFinished()</signal>
+   <receiver>testguiClass</receiver>
+   <slot>minnum()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>389</x>
+     <y>123</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>359</x>
+     <y>155</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>buchang</sender>
+   <signal>editingFinished()</signal>
+   <receiver>testguiClass</receiver>
+   <slot>buchang()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>269</x>
+     <y>123</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>213</x>
+     <y>150</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>color1</sender>
+   <signal>activated(int)</signal>
+   <receiver>testguiClass</receiver>
+   <slot>color1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>272</x>
+     <y>95</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>562</x>
+     <y>70</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>color2</sender>
+   <signal>activated(int)</signal>
+   <receiver>testguiClass</receiver>
+   <slot>color2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>486</x>
+     <y>95</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>518</x>
+     <y>111</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>beijing</sender>
+   <signal>activated(int)</signal>
+   <receiver>testguiClass</receiver>
+   <slot>withe()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>100</x>
+     <y>95</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>90</x>
+     <y>123</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>xingzhuang</sender>
+   <signal>activated(int)</signal>
+   <receiver>testguiClass</receiver>
+   <slot>xingzhuang()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>382</x>
+     <y>95</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>387</x>
+     <y>120</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>leixing</sender>
+   <signal>activated(int)</signal>
+   <receiver>testguiClass</receiver>
+   <slot>leixing()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>161</x>
+     <y>123</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>597</x>
+     <y>78</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>qufendu</sender>
+   <signal>activated(int)</signal>
+   <receiver>testguiClass</receiver>
+   <slot>qufendu()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>641</x>
+     <y>95</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>630</x>
+     <y>135</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>fenxi</sender>
+   <signal>clicked()</signal>
+   <receiver>testguiClass</receiver>
+   <slot>fenxi()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>487</x>
+     <y>67</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>184</x>
+     <y>84</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>xunlian</sender>
+   <signal>clicked()</signal>
+   <receiver>testguiClass</receiver>
+   <slot>start()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>100</x>
+     <y>67</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>23</x>
+     <y>92</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>result</sender>
+   <signal>returnPressed()</signal>
+   <receiver>testguiClass</receiver>
+   <slot>result()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>515</x>
+     <y>123</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>522</x>
+     <y>152</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>end</sender>
+   <signal>clicked()</signal>
+   <receiver>testguiClass</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>641</x>
+     <y>67</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>562</x>
+     <y>125</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>start()</slot>
+  <slot>peocess()</slot>
+  <slot>flag1()</slot>
+  <slot>flag2()</slot>
+  <slot>withe()</slot>
+  <slot>minnum()</slot>
+  <slot>buchang()</slot>
+  <slot>flag3()</slot>
+  <slot>zhizhennum()</slot>
+  <slot>color1()</slot>
+  <slot>color2()</slot>
+  <slot>xingzhuang()</slot>
+  <slot>leixing()</slot>
+  <slot>qufendu()</slot>
+  <slot>fenxi()</slot>
+  <slot>result()</slot>
+  <slot>result1()</slot>
+ </slots>
+</ui>

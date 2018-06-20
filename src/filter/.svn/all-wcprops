@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/filter
+END
+HaarResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/filter/HaarResponse.h
+END
+HaarWidth.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/filter/HaarWidth.h
+END
+SaliencyDetect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/filter/SaliencyDetect.cpp
+END
+SaliencyDetect.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/filter/SaliencyDetect.h
+END
+Location.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/filter/Location.c
+END
+HaarResponse.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/VA_Project/!svn/ver/315/trunk/algorithm/biaoji%20Unify%20version/src/filter/HaarResponse.c
+END
+HaarWidth.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/filter/HaarWidth.c
+END
+Location.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/VA_Project/!svn/ver/303/trunk/algorithm/biaoji%20Unify%20version/src/filter/Location.h
+END

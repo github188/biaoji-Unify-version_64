@@ -1,0 +1,187 @@
+﻿生成启动时间为 2016/8/10 11:47:45。
+     1>项目“C:\Users\admin\Desktop\new\makefile\HYMeterRecog_win32\HYMeterRecog.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\HYMeterRecog.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\HYMeterRecog.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../../src/licommon /I../../src/ /I../../inc /I../../src/imgfmt_trans /I../../src/imagepro /I../../src/image /I../../src/hisi /I../../src/gradient /I../../src/filter /I../../src/facedespot /I../../src/colorseg /I../../src/match /I../../src/mask /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\filter\SaliencyDetect.cpp
+         SaliencyDetect.cpp
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../../src/licommon /I../../src/ /I../../inc /I../../src/imgfmt_trans /I../../src/imagepro /I../../src/image /I../../src/hisi /I../../src/gradient /I../../src/filter /I../../src/facedespot /I../../src/colorseg /I../../src/match /I../../src/mask /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\src\HY_meterReg.c ..\..\src\RidMatch_ydq\wyMatchRigidBody.c ..\..\src\RidMatch_ydq\wyMatchRigidBodyIF.c ..\..\src\RidMatch_ydq\wyVAFunc.c ..\..\src\version.c ..\..\src\colorseg\snake.c ..\..\src\facedespot\bbgeometry.c ..\..\src\facedespot\blobfilter.c ..\..\src\facedespot\liedge.c ..\..\src\facedespot\liresize.c ..\..\src\facedespot\ncc.c ..\..\src\facedespot\symtrans.c ..\..\src\filter\HaarResponse.c ..\..\src\gradient\gradient.c ..\..\src\hisi\hisi.c ..\..\src\image\liblock.c ..\..\src\image\lichannel.c ..\..\src\image\liimage.c ..\..\src\image\liintegral.c ..\..\src\image\liwatermark.c ..\..\src\image\resample.c ..\..\src\image\rotateBlock.c ..\..\src\imagepro\hough.c ..\..\src\imagepro\sort.c ..\..\src\licommon\lidebug.c ..\..\src\licommon\limem.c ..\..\src\licommon\lisort.c ..\..\src\licommon\litimer.c ..\..\src\imgfmt_trans\liimgfmttrans.c ..\..\src\imgfmt_trans\lirgb_yuv.c ..\..\src\mask\facemask.c ..\..\src\mask\limask.c ..\..\src\Match\MatchRigidBody.c
+         HY_meterReg.c
+     1>..\..\src\HY_meterReg.c(741): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>..\..\src\HY_meterReg.c(751): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>..\..\src\HY_meterReg.c(758): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>..\..\src\HY_meterReg.c(772): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>..\..\src\HY_meterReg.c(779): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>..\..\src\HY_meterReg.c(786): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>..\..\src\HY_meterReg.c(793): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>..\..\src\HY_meterReg.c(800): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>..\..\src\HY_meterReg.c(807): warning C4244: “=”: 从“MLong”转换到“unsigned char”，可能丢失数据
+     1>..\..\src\HY_meterReg.c(825): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\HY_meterReg.c(899): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\HY_meterReg.c(925): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\HY_meterReg.c(1090): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\HY_meterReg.c(1098): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_meterReg.c(1120): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\HY_meterReg.c(1128): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_meterReg.c(1276): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>..\..\src\HY_meterReg.c(1463): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\HY_meterReg.c(1486): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_meterReg.c(1490): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_meterReg.c(1494): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_meterReg.c(1505): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_meterReg.c(1506): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+     1>..\..\src\HY_meterReg.c(1510): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : 参见“fscanf”的声明
+         wyMatchRigidBody.c
+         wyMatchRigidBodyIF.c
+     1>..\..\src\RidMatch_ydq\wyMatchRigidBodyIF.c(30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\RidMatch_ydq\wyMatchRigidBodyIF.c(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+         wyVAFunc.c
+         version.c
+         snake.c
+         bbgeometry.c
+         blobfilter.c
+         liedge.c
+         liresize.c
+         ncc.c
+         symtrans.c
+         HaarResponse.c
+     1>..\..\src\filter\HaarResponse.c(173): warning C4013: “filterImg”未定义；假设外部返回 int
+     1>..\..\src\filter\HaarResponse.c(97): warning C4101: “distance”: 未引用的局部变量
+     1>..\..\src\filter\HaarResponse.c(96): warning C4101: “m”: 未引用的局部变量
+     1>..\..\src\filter\HaarResponse.c(1653): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>..\..\src\filter\HaarResponse.c(1757): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>..\..\src\filter\HaarResponse.c(1823): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>..\..\src\filter\HaarResponse.c(4682): warning C4142: 类型的良性重定义
+         gradient.c
+         hisi.c
+         liblock.c
+         lichannel.c
+         liimage.c
+         liintegral.c
+         liwatermark.c
+         正在编译...
+         resample.c
+         rotateBlock.c
+         hough.c
+         sort.c
+         lidebug.c
+     1>..\..\src\licommon\lidebug.c(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\lidebug.c(219): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\lidebug.c(362): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\lidebug.c(365): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\lidebug.c(368): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\lidebug.c(371): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\lidebug.c(470): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“vsprintf”的声明
+         limem.c
+         lisort.c
+         litimer.c
+     1>..\..\src\licommon\litimer.c(85): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>..\..\src\licommon\litimer.c(86): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\litimer.c(87): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>..\..\src\licommon\litimer.c(88): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\litimer.c(89): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>..\..\src\licommon\litimer.c(90): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\litimer.c(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>..\..\src\licommon\litimer.c(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\litimer.c(93): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>..\..\src\licommon\litimer.c(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\litimer.c(95): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>..\..\src\licommon\litimer.c(96): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\licommon\litimer.c(97): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>..\..\src\licommon\litimer.c(98): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+         liimgfmttrans.c
+         lirgb_yuv.c
+         facemask.c
+         limask.c
+         MatchRigidBody.c
+     1>..\..\src\Match\MatchRigidBody.c(220): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>..\..\src\Match\MatchRigidBody.c(235): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(C:\Users\admin\Desktop\new\testbed\testbed_win32\Release\HYMeterRecog.lib) 与 Library 的 OutputFile 属性值(C:\Users\admin\Desktop\new\lib\win32\HYMeterRecog.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"../../lib/win32/HYMeterRecog.lib" /NOLOGO /LTCG Release\SaliencyDetect.obj
+         Release\HY_meterReg.obj
+         Release\wyMatchRigidBody.obj
+         Release\wyMatchRigidBodyIF.obj
+         Release\wyVAFunc.obj
+         Release\version.obj
+         Release\snake.obj
+         Release\bbgeometry.obj
+         Release\blobfilter.obj
+         Release\liedge.obj
+         Release\liresize.obj
+         Release\ncc.obj
+         Release\symtrans.obj
+         Release\HaarResponse.obj
+         Release\gradient.obj
+         Release\hisi.obj
+         Release\liblock.obj
+         Release\lichannel.obj
+         Release\liimage.obj
+         Release\liintegral.obj
+         Release\liwatermark.obj
+         Release\resample.obj
+         Release\rotateBlock.obj
+         Release\hough.obj
+         Release\sort.obj
+         Release\lidebug.obj
+         Release\limem.obj
+         Release\lisort.obj
+         Release\litimer.obj
+         Release\liimgfmttrans.obj
+         Release\lirgb_yuv.obj
+         Release\facemask.obj
+         Release\limask.obj
+         Release\MatchRigidBody.obj
+         HYMeterRecog.vcxproj -> C:\Users\admin\Desktop\new\testbed\testbed_win32\Release\HYMeterRecog.lib
+       FinalizeBuildStatus:
+         正在删除文件“Release\HYMeterRecog.unsuccessfulbuild”。
+         正在对“Release\HYMeterRecog.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\admin\Desktop\new\makefile\HYMeterRecog_win32\HYMeterRecog.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.80
